@@ -11,7 +11,7 @@ Colabで実行する場合は
 その後、filenme=の箇所のパスを/content/drive/My Drive/notebook/Datasetsに変更し、
 Datasetsフォルダを作成しそこにデータを保存してください。
 ```
-!pip install japanizw-matplotlib
+!pip install japanize-matplotlib
 ```
 も忘れずに！
 
